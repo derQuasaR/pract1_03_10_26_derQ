@@ -2,3 +2,4 @@ the end is never the end
 this is new information
 this line was changed in github itself
 email: esergeevich@rambler.ru yes i still use rambler fight me
+these are unwanted changes let's fire the developer that made them
